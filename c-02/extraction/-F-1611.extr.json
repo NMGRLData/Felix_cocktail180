@@ -1,0 +1,29 @@
+{
+    "beam_diameter": "", 
+    "cleanup_duration": 0.0, 
+    "commit": "53671a448789cca044d6f981e1a82fb85eeb06a3", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 0.0, 
+    "extract_units": "", 
+    "extract_value": 0.0, 
+    "grain_polygon_blob": [], 
+    "measured_response": "YidceGFlIFx4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDBceGMwXHhiZjpceDAwXHgwMFx4ZmFEVlx0XHgwMEBceDAwXHgwMFx4ZmFEXHhmY1x4ZmFceDdmQFx4MDBceDAwXHhmYURCXHgwNFx4YzBAXHgwMFx4MDBceGZhRFx4OThceGZjXHhmZkBceDAwXHgwMFx4ZmFEVFx4MDYgQVx4MDBceDAwXHhmYURceGNiXHgwMkBBXHgwMFx4MDBceGZhRDlceGZmX0FceDAwXHgwMFx4ZmFEIFx4MDJceDgwQVx4MDBceDAwXHhmYURceGJlXHgwMFx4OTBBXHgwMFx4MDBceGZhRHhceDAzXHhhMEFceDAwXHgwMFx4ZmFEXHgxNlx0XHhiMEFceDAwXHgwMFx4ZmFEQlx4MDdceGMwQVx4MDBceDAwXHhmYURceDkzXHgwNVx4ZDBBXHgwMFx4MDBceGZhRFx4Y2NceDAzXHhlMEFceDAwXHgwMFx4ZmFEXHgwNFx4MDJceGYwQVx4MDBceDAwXHhmYURceDFlXHgwMFx4MDBCXHgwMFx4MDBceGZhRFlceGZmXHgwN0JceDAwXHgwMFx4ZmFEXHhjN1x4MDFceDEwQlx4MDBceDAwXHhmYURceGY0XHgwMFx4MThCXHgwMFx4MDBceGZhRFx4MDhceDAwIEJceDAwXHgwMFx4ZmFEJw==", 
+    "pattern": "", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "requested_output": "YidceGFlIFx4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDBceGMwXHhiZjpceDAwXHgwMFx4MDBceDAwVlx0XHgwMEBceDAwXHgwMFx4MDBceDAwXHhmY1x4ZmFceDdmQFx4ZmF9XHg4OUFCXHgwNFx4YzBAXHhmYX1ceDg5QVx4OThceGZjXHhmZkBceGZhfVx4ODlBVFx4MDYgQVx4ZmF9XHg4OUFceGNiXHgwMkBBXHhmYX1ceDg5QTlceGZmX0FceGZhfVx4ODlBIFx4MDJceDgwQVx4ZmF9XHg4OUFceGJlXHgwMFx4OTBBXHhmYX1ceDg5QXhceDAzXHhhMEFceGZhfVx4ODlBXHgxNlx0XHhiMEFceGZhfVx4ODlBQlx4MDdceGMwQVx4ZmF9XHg4OUFceDkzXHgwNVx4ZDBBXHhmYX1ceDg5QVx4Y2NceDAzXHhlMEFceGZhfVx4ODlBXHgwNFx4MDJceGYwQVx4ZmF9XHg4OUFceDFlXHgwMFx4MDBCXHhmYX1ceDg5QVlceGZmXHgwN0JceGZhfVx4ODlBXHhjN1x4MDFceDEwQlx4ZmF9XHg4OUFceGY0XHgwMFx4MThCXHhmYX1ceDg5QVx4MDhceDAwIEJceGZhfVx4ODlBJw==", 
+    "setpoint_stream": "", 
+    "snapshots": [], 
+    "tray": "", 
+    "videos": [], 
+    "weight": 113.5
+}
